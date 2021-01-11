@@ -1,6 +1,12 @@
 <h1 align="center"> <ins>Placement-Portal</ins> </h1>
 <h4 align="center"> <ins>Web APP for TRAINING AND PLACEMENT CELL</ins> </h4>
 
+<p align="center">
+<a>
+    <img src="./main.png"/>
+</a>
+</p>
+
 <h2> Project Introduction </h2>
 
 * Training  and  Placement  Cell  is  an  important  part  of  any  educational  institute,  in which most of the work till now is being done manually. The training and placement officer has to inform around hundreds of students about every single training and placement related activity. So to make the placement process easy and effective for the training and placement department as well as the students, a Web application can be developed. This application can  help  the  placement  officers  to  provide  the  details  of  upcoming  companies. The  students will be alerted  via a  email and notification on the site. Once  the  recruitment process  is  completed, a  list of placed students  will  be  uploaded  in  the  application  by  the  administrator.  It  would  be  easy  for  the students to view the details of those who have been recruited. The number of students placed in a particular company can be viewed by students when required. If any changes is need to be  made  in  the  student  details  the  student  can  make  a  request to the  placement officer. This project will be helpful in faster management of the placement related activities in the college campus.
