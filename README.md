@@ -31,3 +31,4 @@
 * Frontend=> React.js
 * Backend=> Node.js OR Django(Not Decided)
 * Database=> Postgresql OR MongoDB(Not Decided)
+* Hosting=> Heroku(probably)
